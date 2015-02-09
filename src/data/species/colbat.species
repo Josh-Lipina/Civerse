@@ -1,0 +1,31 @@
+﻿[Basic Info]
+species=Colbat
+description=Common bat that makes their home in many caves.
+
+[General]
+levelRate=medium
+primaryType=normal
+secondaryType=poison
+catchRate=35
+
+[Species Stats]
+baseStrength=100
+baseDexterity=100
+baseSpeed=100
+baseIntelligence=100
+baseWillpower=100
+baseWisdom=100
+basePower=100
+baseResistance=100
+baseResiliance=100
+
+[Train Values]
+trainStrength=0
+trainDexterity=0
+trainSpeed=1
+trainIntelligence=0
+trainWillpower=0
+trainWisdom=0
+trainPower=0
+trainResistance=1
+trainResiliance=1
